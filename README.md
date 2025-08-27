@@ -31,5 +31,4 @@ Based on current AR and app trends, potential improvements include:
 - Advanced user customization for personalized experiences.  
 
 ## Authors
-Developed as part of a Human-Computer Interaction project.  
-**Project Title**: *Lienzo Vivo*
+Developed by Ruth Castro as part of a Human-Computer Interaction project.  
