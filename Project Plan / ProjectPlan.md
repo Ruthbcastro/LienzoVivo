@@ -19,7 +19,6 @@
 | Research current trends in art, decoration, online art commerce, and AR | 3 days | 09-Sep | 11-Sep |
 | Identify innovation elements and project motivation | 1 day | 12-Sep | 12-Sep |
 | Explain application relevance and usefulness | 1 day | 13-Sep | 13-Sep |
-
 | Project Planning (Lienzo Vivo Planning Document) | | | |
 | Define information required for research (users, market, competition) | 1 day | 14-Sep | 14-Sep |
 | Determine type of data analysis (qualitative or quantitative) | 1 day | 15-Sep | 15-Sep |
@@ -30,12 +29,10 @@
 | Create profiles based on research | 2 days | 19-Sep | 22-Sep |
 | Elaborate application usage scenarios | 1 day | 23-Sep | 23-Sep |
 | Define needs and behaviors of primary and secondary users | 1 day | 24-Sep | 24-Sep |
-
 | Requirements Definition (Lienzo Vivo Requirements Document) | | | |
 | Identify user requirements | 1 day | 25-Sep | 25-Sep |
 | Classify functional (AR, catalog, online purchase) and non-functional requirements (usability, compatibility) | 1 day | 26-Sep | 26-Sep |
 | Relate requirements to HCI principles | 1 day | 27-Sep | 27-Sep |
-
 | DCU Methodology (DCU Application in Lienzo Vivo Document) | | | |
 | Document how User-Centered Design was applied | 1 day | 29-Sep | 29-Sep |
 | Explain improvements achieved with DCU approach | 1 day | 30-Sep | 30-Sep |
