@@ -1,6 +1,4 @@
-¡Ah, entendido! Aquí está la versión **sin negritas**, en Markdown y completa:
 
-```md
 # Functional Requirements
 
 RF1. The application must display the artwork information, including name, artist, dimensions, materials, and price, as well as the buttons Buy and View on Wall.
@@ -44,6 +42,3 @@ RNF3. The interface must be intuitive and allow the user to easily understand wh
 RNF4. The application must be compatible with supported devices and ensure stability during AR scanning.
 
 RNF5. All messages, indicators, and visual elements must be consistent and easily recognizable.
-```
-
-Si quieres, puedo hacer también una versión **con numeración 1, 2, 3…** que se vea más limpia para presentar. ¿Quieres que haga eso?
