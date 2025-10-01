@@ -22,6 +22,7 @@ The motivation for this project also stems from the need to address common perce
 
 - **Real-Time Feedback:** Once the user finishes scanning the wall and taps the desired location to place the painting, the application will immediately show how the artwork will appear in that space. This provides instant feedback on placement, size, and position, making interaction clear and understandable without additional steps (Feedback / Visibility of System Status).  
  ![.](../img/retro.png)
+<img src="../img/retro.png" alt="Texto alternativo" width="300" />
 - **Manage Occlusion and Depth:** The placement area must be smooth and free of interfering objects. If the user scans a wall with furniture or lamps, the painting will be placed respecting depth, avoiding unrealistic visualization, while prioritizing simple spaces to ensure correct and manageable visualization in the app (Error Prevention).
 
 ## Project Value
