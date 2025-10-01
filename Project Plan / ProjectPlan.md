@@ -19,9 +19,9 @@
 | Research current trends in art, decoration, online art commerce, and AR | 3 days | 09-Sep | 11-Sep |
 | Identify innovation elements and project motivation | 1 day | 12-Sep | 12-Sep |
 | Explain application relevance and usefulness | 1 day | 13-Sep | 13-Sep |
-| Project Planning (Lienzo Vivo Planning Document) | | | |
 | Define information required for research (users, market, competition) | 1 day | 14-Sep | 14-Sep |
 | Determine type of data analysis (qualitative or quantitative) | 1 day | 15-Sep | 15-Sep |
+| Project Planning (Lienzo Vivo Planning Document) | 
 | Prepare activity calendar in Jira | 1 day | 16-Sep | 16-Sep |
 | Define expected products/results (prototype, profiles, requirements, tests) | 1 day | 17-Sep | 17-Sep |
 | Create repository | 0.5 day | 18-Sep | 18-Sep |
