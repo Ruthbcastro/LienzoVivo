@@ -26,7 +26,6 @@
 | Prepare activity calendar in Jira | 1 day | 16-Sep | 16-Sep |
 | Define expected products/results (prototype, profiles, requirements, tests) | 1 day | 17-Sep | 17-Sep |
 | Create repository | 0.5 day | 18-Sep | 18-Sep |
-
 | Profiles, Personas, and Scenarios (User Profiles and Scenarios Document) | | | |
 | Create profiles based on research | 2 days | 19-Sep | 22-Sep |
 | Elaborate application usage scenarios | 1 day | 23-Sep | 23-Sep |
@@ -66,24 +65,20 @@
 | Map relationships between RF and NFR | 1 day | 06-Oct | 06-Oct |
 | Specify usability attributes in relevant NFR | 1 day | 07-Oct | 07-Oct |
 | Create traceability artifacts (diagrams, tables, matrices) | 2 days | 08-Oct | 09-Oct |
-
 | Interface Prototyping | | | |
 | Design initial prototypes and update based on feedback | 3 days | 10-Oct | 14-Oct |
 | Show prototype evolution with improvements | 1 day | 15-Oct | 15-Oct |
 | Identify key app interactions (art selection, AR, purchase) | 1 day | 16-Oct | 16-Oct |
 | Document how each interaction meets RF and usability NFR | 1 day | 17-Oct | 17-Oct |
-
 | Inspection Methods | | | |
 | Select appropriate inspection method (DOF checklist) | 1 day | 20-Oct | 20-Oct |
 | Apply method to prototypes and document findings | 2 days | 21-Oct | 22-Oct |
 | Implement design improvements based on results | 1 day | 23-Oct | 23-Oct |
-
 | Usability Test Sketch | | | |
 | Select most important usability NFR | 1 day | 24-Oct | 24-Oct |
 | Define number of participants, tasks, and scenarios | 1 day | 27-Oct | 27-Oct |
 | Estimate time for tasks and total test | 0.5 day | 28-Oct | 28-Oct |
 | Prepare detailed pilot test protocol | 1 day | 29-Oct | 29-Oct |
-
 | Project Progress Presentation | | | |
 | Prepare project progress presentation content | 1 day | 30-Oct | 30-Oct |
 | Include URL to repository with all artifacts | 0.5 day | 30-Oct | 30-Oct |
@@ -103,30 +98,25 @@
 
 | Deliverable / Activity | Estimated Duration | Start Date | End Date |
 |------------------------|-----------------|------------|----------|
-| Summary of progress and changes (Progress Document) | | | |
+| Summary of progress and changes (Progress Document) |
 | Record significant RF and NFR changes | 1 day | 01-Nov | 01-Nov |
 | Document prototype and functionality adjustments | 1 day | 04-Nov | 04-Nov |
 | Describe problems found and solutions implemented | 1 day | 05-Nov | 05-Nov |
-
-| Product Summary according to DCU (Product Report) | | | |
+| Product Summary according to DCU (Product Report) |
 | Explain current app functionalities (purchase, AR, catalog) | 1 day | 06-Nov | 06-Nov |
 | Include prototypes and low-to-high fidelity evolution | 2 days | 07-Nov | 08-Nov |
 | Show transition between stages and incorporation of feedback | 1 day | 11-Nov | 11-Nov |
-
-| DCU Stages Presentation (Development Phases Document) | | | |
+| DCU Stages Presentation (Development Phases Document) |
 | Describe process followed in each stage (research, analysis, design, testing) | 2 days | 12-Nov | 13-Nov |
 | Attach generated products (diagrams, scenarios, prototypes) and decisions made | 2 days | 14-Nov | 15-Nov |
-
-| Usability Testing (Test Report) | | | |
+| Usability Testing (Test Report) |
 | Select participants, tasks, and test scenarios | 1 day | 18-Nov | 18-Nov |
 | Collect evidence (videos, screenshots, questionnaires) | 2 days | 19-Nov | 20-Nov |
 | Analyze qualitative and quantitative results | 1 day | 21-Nov | 21-Nov |
 | Suggest improvements based on results | 1 day | 22-Nov | 22-Nov |
-
-| Lessons Learned (Learnings Document) | | | |
+| Lessons Learned (Learnings Document)  |
 | Compare theory vs practice in DCU, document errors and improvements | 1 day | 25-Nov | 25-Nov |
 | Document new skills acquired and evidence of objectives met | 1 day | 26-Nov | 26-Nov |
-
-| Project Progress Presentation (Slides with Prototype) | | | |
+| Project Progress Presentation (Slides with Prototype)  |
 | Prepare presentation sequence with images and prototype | 1 day | 27-Nov | 27-Nov |
 | Include repository link for detailed consultation | 0.5 day | 28-Nov | 28-Nov |
