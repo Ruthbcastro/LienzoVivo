@@ -13,7 +13,8 @@ Furthermore, since the main purpose of the application is to facilitate purchase
 ## Project Motivation
 The motivation for this project also stems from the need to address common perceptual issues in AR applications. As Ruiz (2021) mentions, these issues include scene distortion, depth perception, and object visibility. Their visual guidelines suggest practical solutions that can be applied concretely in this project:
 
-- **Indicate Movement:** When scanning the wall, the application will instruct the user to move the device in small circles over the flat surface to properly detect the space. After placing the painting, arrows or animations will indicate that the artwork can be moved up, down, or sideways within the scanned area (Feedback).  
+- **Indicate Movement:** When scanning the wall, the application will instruct the user to move the device in small circles over the flat surface to properly detect the space. After placing the painting, arrows or animations will indicate that the artwork can be moved up, down, or sideways within the scanned area (Feedback).
+  <img src="img/Escanea.png" style="width:200px;">
 
 - **Emphasize Editable Parts:** Highlight the painting with a bright border when it is editable, and provide brief messages indicating how to correct an action (Affordance).  
 
