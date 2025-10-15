@@ -42,3 +42,5 @@ RNF3. The interface must be intuitive and allow the user to easily understand wh
 RNF4. The application must be compatible with supported devices and ensure stability during AR scanning.
 
 RNF5. All messages, indicators, and visual elements must be consistent and easily recognizable.
+
+>Explain easy recognizable meaning. 
