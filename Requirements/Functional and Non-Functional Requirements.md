@@ -1,46 +1,48 @@
 
 # Functional Requirements
 
-RF1. The application must display the artwork information, including name, artist, dimensions, materials, and price, as well as the buttons Buy and View on Wall.
-
-RF2. When pressing the View on Wall button, the application must activate the device’s camera to begin scanning the space.
-
-RF3. When starting the AR experience, the application must show two imaginary horizontal lines (one aligned with the ceiling and the other with the floor) and a message instructing the user to align the top and bottom edges of the wall with the lines on screen.
-
-RF4. While the user aligns the wall, the application must display a visual indicator showing that it is waiting for the correct alignment.
-
-RF5. Once the wall edges are aligned with the guide lines, the lines must change color and remain visible for 3 seconds along with the message “Borders correctly aligned.”
-
-RF6. After confirming the alignment, the loading indicator must change to a confirmation indicator, and the application must display graphical elements showing that the camera is scanning, accompanied by the message “Make circular movements.”
-
-RF7. During the scan, the application must display the legend “Scanning” along with a cumulative progress indicator.
-
-RF8. At the end of the scan, the progress indicator must be replaced by a confirmation indicator along with the legend “Scan completed” for 3 seconds.
-
-RF9. Once the scan is completed, the application must allow the user to place the artwork by tapping on the desired area of the screen.
-
-RF10. The application must display an arrow pointing to the placed artwork, a shaded border around the selection, and an X button to cancel the action if the user wishes to reposition the artwork.
-
-RF11. If the user taps the artwork, a drag mode must be activated that allows moving the artwork only within the scanned space.
-
-RF12. When the artwork is released in a new position, it must remain fixed in that location.
-
-RF13. Once the artwork is placed, the application must display the buttons Done (to confirm the final visualization) and Buy (to purchase the artwork).
-
-RF14. The application must display a numbered walkthrough that guides the user step by step through the required actions.
+1. **RF1.** The application must display the artwork information, including name, artist, dimensions, materials, and price, along with the _Buy_ and _View on Wall_ buttons.
+    
+2. **RF2.** When pressing _View on Wall_, the application must activate the device’s camera and start scanning the space.
+    
+3. **RF3.** When starting the AR experience, the application must show two horizontal lines (one aligned with the ceiling and one with the floor) with a message instructing the user to align the wall edges.
+    
+4. **RF4.** While the user aligns the wall, the application must display a visual indicator showing it is waiting for correct alignment.
+    
+5. **RF5.** When the lines are correctly aligned, they must change color and remain visible for 3 seconds along with the message “Borders correctly aligned.”
+    
+6. **RF6.** After alignment, the loading indicator must change to a confirmation indicator and show the message “Make circular movements.”
+    
+7. **RF7.** During the scan, the application must display the legend “Scanning” along with a cumulative progress indicator.
+    
+8. **RF8.** At the end of the scan, the progress indicator must be replaced by the message “Scan completed,” visible for 3 seconds.
+    
+9. **RF9.** Once the scan is complete, the user must be able to place the artwork by tapping the desired area.
+    
+10. **RF10.** The application must display an arrow pointing to the artwork, a shaded border around it, and an X button to cancel the action.
+    
+11. **RF11.** If the user taps the artwork, drag mode must be activated, allowing movement only within the scanned space.
+    
+12. **RF12.** When the artwork is released, it must remain fixed in its new position.
+    
+13. **RF13.** Once the artwork is placed, the application must display the _Done_ (confirm) and _Buy_ buttons.
+    
+14. **RF14.** The application must show a numbered walkthrough guiding the user step by step.
 
 ---
 
 # Non-Functional Requirements
 
-RNF1. The application must provide clear visual feedback during all stages of scanning and artwork placement.
-
-RNF2. The alignment, loading, and confirmation indicators must update immediately when the state changes.
-
-RNF3. The interface must be intuitive and allow the user to easily understand what action to take next.
-
-RNF4. The application must be compatible with supported devices and ensure stability during AR scanning.
-
-RNF5. All messages, indicators, and visual elements must be consistent and easily recognizable.
-
->Explain easy recognizable meaning. 
+- **RNF1.** The application must provide clear visual feedback at all stages of scanning and artwork placement.
+    
+- **RNF2.** Alignment, loading, and confirmation indicators must immediately reflect state changes in the prototype.
+    
+- **RNF3.** The interface must be intuitive and guide the user step by step without external instructions.
+    
+- **RNF4.** The application must display consistent interactions throughout all steps of the workflow (scanning, placing, confirmation).
+    
+- **RNF5.** All messages, icons, colors, and visual elements must maintain consistency in style and meaning within the prototype.
+    
+- **RNF6.** Simulated actions in the prototype must show immediate changes to reflect user feedback.
+    
+- **RNF7.** The prototype must represent that the application does not store sensitive data, such as images, camera input, or location.
