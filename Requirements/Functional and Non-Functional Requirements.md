@@ -46,3 +46,69 @@
 - **RNF6.** Simulated actions in the prototype must show immediate changes to reflect user feedback.
     
 - **RNF7.** The prototype must represent that the application does not store sensitive data, such as images, camera input, or location.
+
+
+**Mapping Relationships Between Functional and Non-Functional Requirements**
+
+|**Functional Requirement (RF)**|**Related Non-Functional Requirements (RNF)**|**Relationship Explanation**|
+|---|---|---|
+
+|   |   |   |
+|---|---|---|
+|**RF1** – Display artwork info and buttons|RNF3, RNF4, RNF5|The interface must be intuitive and visually consistent when showing artwork details.|
+
+|   |   |   |
+|---|---|---|
+|**RF2** – Activate camera and start scanning|RNF1, RNF2, RNF4|Visual feedback and responsive indicators ensure clarity during scanning.|
+
+|   |   |   |
+|---|---|---|
+|**RF3** – Show horizontal guide lines|RNF1, RNF2, RNF5|Clear and consistent visual elements help users align correctly.|
+
+|   |   |   |
+|---|---|---|
+|**RF4** – Show waiting indicator for alignment|RNF1, RNF2|Immediate feedback maintains user understanding during the process.|
+
+|   |   |   |
+|---|---|---|
+|**RF5** – Lines change color when aligned|RNF1, RNF2, RNF5|Color and message consistency ensure the alignment confirmation is clear.|
+
+|   |   |   |
+|---|---|---|
+|**RF6** – Change to confirmation indicator (“Make circular movements”)|RNF1, RNF2, RNF4|Immediate visual update and consistency in interaction feedback.|
+
+|   |   |   |
+|---|---|---|
+|**RF7** – Show “Scanning” progress indicator|RNF1, RNF2, RNF6|Clear visual feedback and responsive updates simulate real-time progress.|
+
+|   |   |   |
+|---|---|---|
+|**RF8** – Show “Scan completed” message|RNF1, RNF2, RNF4|Ensures clear completion feedback and consistent messaging.|
+
+|   |   |   |
+|---|---|---|
+|**RF9** – Allow user to place artwork|RNF3, RNF4, RNF5|Interface must guide placement intuitively and maintain style consistency.|
+
+|   |   |   |
+|---|---|---|
+|**RF10** – Display arrow, shaded border, and cancel option|RNF1, RNF3, RNF5|Feedback clarity, intuitive controls, and visual uniformity.|
+
+|   |   |   |
+|---|---|---|
+|**RF11** – Enable drag mode within scanned space|RNF3, RNF6|Drag actions must respond instantly and intuitively in the prototype.|
+
+|   |   |   |
+|---|---|---|
+|**RF12** – Artwork remains fixed when released|RNF6|Immediate visual confirmation reflects user action.|
+
+|   |   |   |
+|---|---|---|
+|**RF13** – Show Done and Buy buttons|RNF3, RNF5|Buttons must be visually consistent and intuitive to understand.|
+
+|   |   |   |
+|---|---|---|
+|**RF14** – Show numbered walkthrough|RNF3, RNF4, RNF5|Guides users intuitively through steps with consistent style and feedback.|
+
+|   |   |   |
+|---|---|---|
+|—|**RNF7 (Privacy simulation)**|Applies globally: prototype must not simulate data storage or access.|
