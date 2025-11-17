@@ -51,10 +51,6 @@
 **Mapping Relationships Between Functional and Non-Functional Requirements**
 
 |**Functional Requirement (RF)**|**Related Non-Functional Requirements (RNF)**|**Relationship Explanation**|
-|---|---|---|
-
-|   |   |   |
-|---|---|---|
 |**RF1** – Display artwork info and buttons|RNF3, RNF4, RNF5|The interface must be intuitive and visually consistent when showing artwork details.|
 
 |   |   |   |
